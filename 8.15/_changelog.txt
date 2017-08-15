@@ -24,3 +24,4 @@ change log
 	- quotation status: what kind of data comes out under "Purchase Order"?
 3. cleaned up CSS class definitions across account dashboard for data placeholders - please update with new files
 4. added to github for version control
+(https://github.com/elvinw/Christelle)
